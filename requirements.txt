@@ -1,0 +1,12 @@
+Django>=5.0
+djangorestframework>=3.14
+channels>=4.0
+channels-redis>=4.1
+uvicorn[standard]>=0.24.0
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+plotly>=5.14
+websockets>=11.0
+
